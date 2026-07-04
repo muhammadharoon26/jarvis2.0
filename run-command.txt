@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --add-data "gui.html;." --add-data "jarvis.ps1;." app.py
